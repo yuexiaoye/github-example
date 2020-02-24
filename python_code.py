@@ -1,2 +1,2 @@
-print 'Helloword!'
+print 'Hello Capstone Project Course!'
 
